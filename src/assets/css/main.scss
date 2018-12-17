@@ -1,0 +1,19 @@
+body,div,h1,h2,h3,h4,h5,h6,ul,ol,li,a,span{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding:10px;
+}
+ul,ol{
+    list-style: none;
+}
+.clearfix {
+    zoom: 1;
+    content: "";
+    overflow: hidden;
+    clear: both;
+  }
+  h6 {
+    margin: 10px 0;
+  }
